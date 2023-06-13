@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a university assignment that involves analyzing a video of a football match in a game. The goal is to extract specific elements from the video, such as the ball, players from each team, and field lines. The extracted elements are then combined into a single image, where each element is represented by a different color. Additionally, the project includes functionality to count the number of players in each frame and within specific cropped regions of the frame. The entire analysis process is integrated into a simple graphical user interface (GUI).
+This project is a university project that involves analyzing a video of a football match in a game. The goal is to extract specific elements from the video, such as the ball, players from each team, and field lines. The extracted elements are then combined into a single image, where each element is represented by a different color. Additionally, the project includes functionality to count the number of players in each frame and within specific cropped regions of the frame. The entire analysis process is integrated into a simple graphical user interface (GUI).
 
 ## Project Steps
 
